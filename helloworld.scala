@@ -1,4 +1,4 @@
-var xxx = "helloworld"
+﻿var xxx = "hello world"
 println(xxx)
 
 println("1. 시퀀스의 출력이 간단함.")
